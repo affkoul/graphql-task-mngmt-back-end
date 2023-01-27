@@ -1,5 +1,5 @@
 # graphql-task-mngmt-back-end
-GraphQL based task management web app back-end for https://github.com/affkoul/graphql-task-mngmt-front-end
+GraphQL based task management web app back-end
 
 1. Clone this repository.
 
@@ -23,4 +23,4 @@ GraphQL based task management web app back-end for https://github.com/affkoul/gr
 
 ![GAC Logo](https://geniusandcourage.com/favicon.ico)
 
-Video Converter Web App By [GAC DEV](https://geniusandcourage.com)
+Task Management Web App By [GAC DEV](https://geniusandcourage.com)
